@@ -33,3 +33,16 @@ h5 {
 #lista {
   padding-left: 15px;
 }
+
+table {
+  border-spacing: 0;
+}
+
+thead {
+  background-color: #0089ff;
+  color: white;
+}
+
+th {
+  width: 100px;
+}
