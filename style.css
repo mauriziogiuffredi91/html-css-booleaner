@@ -29,3 +29,7 @@ main {
 h5 {
   color: rgb(169, 169, 169);
 }
+
+#lista {
+  padding-left: 15px;
+}
