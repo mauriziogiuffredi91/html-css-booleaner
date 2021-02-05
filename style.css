@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 header {
   background-image: url("./img/pattern.png");
   background-size: contain;
@@ -7,4 +11,21 @@ header {
 
 header img {
   width: 200px;
+  margin: 30px 40px;
+}
+
+main {
+  margin: 0 50px;
+}
+
+.title {
+  font-family: "Lato", sans-serif;
+}
+
+#text-item {
+  color: #6f6fec;
+}
+
+h5 {
+  color: rgb(169, 169, 169);
 }
