@@ -70,3 +70,7 @@ th {
   background-repeat: no-repeat;
   height: 208px;
 }
+
+.yellow {
+  background: yellow;
+}
