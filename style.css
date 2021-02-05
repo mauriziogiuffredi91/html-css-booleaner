@@ -15,7 +15,7 @@ header img {
 }
 
 main {
-  margin: 0 50px;
+  margin: 0 100px;
 }
 
 .title {
@@ -38,11 +38,16 @@ table {
   border-spacing: 0;
 }
 
-thead {
-  background-color: #0089ff;
+#row1 {
+  background: #0089ff;
   color: white;
+  text-align: left;
 }
 
 th {
   width: 100px;
+}
+
+.row {
+  background: #00dcff;
 }
