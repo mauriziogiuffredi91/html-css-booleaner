@@ -11,7 +11,7 @@ header {
 
 header img {
   width: 200px;
-  margin: 30px 40px;
+  margin: 30px 100px;
 }
 
 main {
@@ -26,8 +26,15 @@ main {
   color: #6f6fec;
 }
 
-h5 {
+h4 {
   color: rgb(169, 169, 169);
+  font-family: "Lato", sans-serif;
+}
+
+h3 {
+  color: white;
+  font-family: "Mukta", sans-serif;
+  padding: 10px;
 }
 
 #lista {
@@ -50,4 +57,16 @@ th {
 
 .row {
   background: #00dcff;
+}
+
+.first-img {
+  background: url("./img/monitor.jpg");
+  background-repeat: no-repeat;
+  height: 208px;
+}
+
+.second-img {
+  background: url("./img/graph.jpg");
+  background-repeat: no-repeat;
+  height: 208px;
 }
