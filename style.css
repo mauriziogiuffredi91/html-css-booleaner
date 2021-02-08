@@ -3,6 +3,20 @@ body {
   background: #3c3434;
 }
 
+#text-item {
+  color: #6f6fec;
+}
+
+#lista {
+  padding-left: 15px;
+}
+
+#row1 {
+  background: #0089ff;
+  color: white;
+  text-align: left;
+}
+
 header {
   background-image: url("./img/pattern.png");
   background-size: contain;
@@ -23,9 +37,7 @@ main {
   font-family: "Lato", sans-serif;
 }
 
-#text-item {
-  color: #6f6fec;
-}
+
 
 h4 {
   color: rgb(169, 169, 169);
@@ -38,19 +50,13 @@ h3 {
   padding: 10px;
 }
 
-#lista {
-  padding-left: 15px;
-}
+
 
 table {
   border-spacing: 0;
 }
 
-#row1 {
-  background: #0089ff;
-  color: white;
-  text-align: left;
-}
+
 
 th {
   width: 100px;
