@@ -80,10 +80,12 @@ th {
   height: 208px;
 }
 
-.yellow {
-  background: yellow;
-}
+
 
 .row-middle{
   background: white;
+}
+
+.first-s{
+  color: white;
 }
